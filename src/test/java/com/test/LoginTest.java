@@ -1,7 +1,7 @@
 package com.test;
 
 import org.testng.annotations.Test;
-// login fun
+// login fun1
 public class LoginTest {
 	
 	@Test
